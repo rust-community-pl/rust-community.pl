@@ -31,8 +31,8 @@ fn main() -> anyhow::Result<()> {
     let web_uri = "https://rustlang.cz";
 
     let mut builder = FeedBuilder::default();
-    builder.title("Czech Rust language events")
-        .subtitle(Some("Events and talk recordings related to the Rust language community in the Czech Republic".into()))
+    builder.title("Polish Rust language events")
+        .subtitle(Some("Events and talk recordings related to the Rust language community in Poland".into()))
         .id(web_uri)
         .links(vec![LinkBuilder::default()
             .title("Atom feed".to_string())

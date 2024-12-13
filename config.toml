@@ -1,8 +1,8 @@
 # The URL the site will be built for
 base_url = "https://rustlang.cz"
 
-title = "Homepage of the Czech Rust community"
-description = "This site serves as an index for information about the Rust language community based in the Czech Republic."
+title = "Homepage of the Polish Rust community"
+description = "This site serves as an index for information about the Rust language community based in Poland."
 author = "Jakub Beránek"
 default_language = "en"
 
