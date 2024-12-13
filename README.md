@@ -22,5 +22,3 @@ Note that all added content should be relevant to Rust usage in Poland, as this 
     ```
 3) Run `zola serve` or `zola build`
 
-## Rust meetup guide
-There is some documentation on running the Rust Prague meetup in the [docs](docs) directory.
