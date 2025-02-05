@@ -25,7 +25,7 @@
       {{ self::sectionheader(label=label, tooltip=tooltip) }}
       <ul class="list-group list-group-flush">
         {% for entry in data %}
-        <a href="{{ entry.link }}"
+        <a {% if entry.link %} href="{{ entry.link }}" {% endif %}
            target="_blank"
            class="list-group-item list-group-item-action"
         >
