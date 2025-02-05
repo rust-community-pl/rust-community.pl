@@ -28,7 +28,7 @@ fn main() -> anyhow::Result<()> {
     entries.sort_by_key(|entry| Reverse(entry.published_at));
 
     let last_update = entries.iter().map(|entry| entry.published_at).max();
-    let web_uri = "https://rustlang.cz";
+    let web_uri = "https://rust-community.pl";
 
     let mut builder = FeedBuilder::default();
     builder.title("Polish Rust language events")
