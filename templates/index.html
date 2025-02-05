@@ -58,15 +58,18 @@
 
 {% set communities = load_data(path="data/communities.yaml") %}
 {% set events = load_data(path="data/events.yaml") %}
+{#
 {% set recordings = load_data(path="data/recordings.yaml") %}
 {% set education = load_data(path="data/education.yaml") %}
 {% set trainings = load_data(path="data/trainings.yaml") %}
 {% set companies = load_data(path="data/companies.yaml") %}
+#}
 
 <div class="container px-4">
   <div class="row g-4">
     {{ self::simplelist(label="Communities", data=communities, tooltip="Online & offline community groups.") }}
     {{ self::simplelist(label="Events", data=events, tooltip="Meetups, conferences, etc.") }}
+    {#
     <div class="col-md-4 col-12">
       <div class="card">
         <div class="card-body">
@@ -114,6 +117,7 @@
         </div>
       </div>
     </div>
+    #}
   </div>
 </div>
 
