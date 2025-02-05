@@ -18,4 +18,4 @@ feed_limit = 50
 highlight_code = true
 
 [extra]
-github_url = "https://github.com/kobzol/rustlang.cz"
+github_url = "https://github.com/rust-community-pl/rust-community.pl"
