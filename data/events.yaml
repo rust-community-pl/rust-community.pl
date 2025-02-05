@@ -1,5 +1,25 @@
-- name: "TODO"
-  link: https://todo.xx
-  date: "2024-12-05T17:00:00+01:00"
-  published: "2024-10-18T10:30:00+02:00"
-  city: Warsaw
+- name: "Rust Gdansk #7"
+  link: https://www.meetup.com/pl-PL/rust-gdansk/
+  date: "2025-02-06T18:00:00+01:00"
+  published: "2025-02-05T17:00:00+01:00"
+  city: Gdańsk
+  kind: "Meetup"
+- name: "RUSTMEET 2025"
+  link: https://rustmeet.eu
+  date: "2025-03-15T10:00:00+01:00"
+  published: "2025-02-05T17:00:00+01:00"
+  city: Gliwice
+  kind: "Conference"
+- name: "Rustikon 2025"
+  link: https://www.rustikon.dev
+  date: "2025-03-26T10:00:00+01:00"
+  published: "2025-02-05T17:00:00+01:00"
+  city: Warszawa
+  kind: "Conference"
+- name: 'Past events:'
+- name: "Rust Wrocław #37"
+  link: https://www.meetup.com/rust-wroclaw/
+  date: "2024-06-06T18:00:00+01:00"
+  published: "2025-02-05T17:00:00+01:00"
+  city: Wrocław
+  kind: "Meetup"
