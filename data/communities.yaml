@@ -1,3 +1,12 @@
 - name: Rust Lang Polish Community
   kind: Discord
   link: https://discord.gg/gQxj5d2pTb
+- name: Rust Gdansk
+  kind: Meetup group
+  link: https://www.meetup.com/pl-PL/rust-gdansk/
+- name: Rust Warsaw
+  kind: Meetup group
+  link: https://www.meetup.com/pl-PL/rust-warsaw/
+- name: Rust Wrocław
+  kind: Website
+  link: https://www.rust-wroclaw.pl/
