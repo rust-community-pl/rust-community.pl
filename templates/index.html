@@ -58,10 +58,10 @@
 
 {% set communities = load_data(path="data/communities.yaml") %}
 {% set events = load_data(path="data/events.yaml") %}
-{#
 {% set recordings = load_data(path="data/recordings.yaml") %}
-{% set education = load_data(path="data/education.yaml") %}
 {% set trainings = load_data(path="data/trainings.yaml") %}
+{#
+{% set education = load_data(path="data/education.yaml") %}
 {% set companies = load_data(path="data/companies.yaml") %}
 #}
 
@@ -69,7 +69,6 @@
   <div class="row g-4">
     {{ self::simplelist(label="Communities", data=communities, tooltip="Online & offline community groups.") }}
     {{ self::simplelist(label="Events", data=events, tooltip="Meetups, conferences, etc.") }}
-    {#
     <div class="col-md-4 col-12">
       <div class="card">
         <div class="card-body">
@@ -96,8 +95,11 @@
         </div>
       </div>
     </div>
+    {#
     {{ self::simplelist(label="Education", data=education, tooltip="University courses, seminars, etc.") }}
+    #}
     {{ self::simplelist(label="Trainings", data=trainings, tooltip="Paid trainings on Rust.") }}
+    {#
     <div class="col-md-4 col-12">
       <div class="card">
         <div class="card-body">

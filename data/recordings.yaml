@@ -1,0 +1,114 @@
+- name: "Coolest algorithms and optimizations I've used at work | Rust Wrocław #37"
+  speakers:
+    - Patryk Wychowaniec
+  date: "2024-06-06"
+  published: "2025-02-06T12:00:00+01:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=TTg3t-Pw0ok
+- name: "Rust in Embedded: From Zero to Embassy | Rust Wrocław #37"
+  speakers:
+    - Krzysztof Andrzejewski
+    - Jakub Lemański
+  date: "2024-06-06"
+  published: "2025-02-06T12:00:00+01:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=bzHC-DONsz0
+- name: 'Trace Me a River (v2.0!) | Rust Wrocław #36'
+  speakers:
+    - Patryk Wychowaniec
+  date: "2024-01-11"
+  published: "2025-02-06T12:00:00+01:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=6_3_9PCNsIk
+- name: 'info!("I am on microcontroller and this is very {=str}!", "cheap"); | Rust Wrocław #36'
+  speakers:
+    - Michał Chodzikiewicz
+  date: "2024-01-11"
+  published: "2025-02-06T12:00:00+01:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=ugjOzlmAHNI
+- name: 'How are Merkle Trees? | Rust Wrocław #35'
+  speakers:
+    - Jakub Trąd
+  date: "2023-10-19"
+  published: "2025-02-06T12:00:00+01:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=wIax53BuJ_k
+- name: 'wait, why (??) - part 2 | Rust Wrocław #35'
+  speakers:
+    - Patryk Wychowaniec
+  date: "2023-10-19"
+  published: "2025-02-06T12:00:00+01:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=H-cKwm33HIc
+- name: "Microdosing Rust: Why & How to Get Started with AVR? | Rust Wrocław #26"
+  speakers:
+    - Patryk Wychowaniec
+  date: "2022-06-23"
+  published: "2025-02-06T12:00:00+01:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=3o_lzQMLU5Q
+- name: "RTIC: Real time concurrency on ARM Cortex-M | Rust Wrocław #26"
+  speakers:
+    - Michał Chodzikiewicz
+  date: "2022-06-23"
+  published: "2025-02-06T12:00:00+01:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=mzFTjn9eftU
+- name: "Rusty Days 2020 - Are we observable yet?"
+  speakers:
+    - Luca Palmieri
+  date: "2020-08-01"
+  published: "2025-02-06T12:00:00+01:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=HtKnLiFwHJM
+- name: "Rusty Days 2020 - How 10 open source projects manage unsafe code"
+  speakers:
+    - Tim McNamara
+  date: "2020-08-01"
+  published: "2025-02-06T12:00:00+01:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=9M0NQI5Cp2c
+- name: "Rusty Days 2020 - Drone Control: Controlling a drone using Rust over WiFi"
+  speakers:
+    - Lachezar Lechev
+  date: "2020-07-31"
+  published: "2025-02-06T12:00:00+01:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=e2mJq9qm_Io
+- name: "Rusty Days 2020 - Harrington: The Rust Borrow Checker - A Deep Dive"
+  speakers:
+    - Nell Shamrell
+  date: "2020-07-31"
+  published: "2025-02-06T12:00:00+01:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=knhpe5IUnlE
+- name: "Rusty Days 2020 - Leveraging Rust to build cross-platform mobile libraries"
+  speakers:
+    - Jan-Erik Rediger
+  date: "2020-07-31"
+  published: "2025-02-06T12:00:00+01:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=j5rczOF7pzg
+- name: "Rusty Days 2020 - Fast encrypted backups with Rust"
+  speakers:
+    - Peter Parkanyi
+  date: "2020-07-29"
+  published: "2025-02-06T12:00:00+01:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=rspSTNDap5A
+- name: "Rusty Days 2020 - Should we have a Rust 2021 edition?"
+  speakers:
+    - Steve Klabnik
+  date: "2020-07-28"
+  published: "2025-02-06T12:00:00+01:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=7LynNMrS8Z0
+- name: "Rusty Days 2020 - Low-level optimization of algebraic and similar structures"
+  speakers:
+    - Michalina Kotwica
+  date: "2020-07-28"
+  published: "2025-02-06T12:00:00+01:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=qBlEi7szSkU
+
