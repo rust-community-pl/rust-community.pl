@@ -2,11 +2,11 @@
   kind: Discord
   link: https://discord.gg/gQxj5d2pTb
 - name: Rust Gdansk
-  kind: Discord
-  link: https://discord.gg/Bjg5GRgSy7
+  kind: Meetup group
+  link: https://www.meetup.com/pl-PL/rust-gdansk/
 - name: Rust Warsaw
-  kind: Telegram
-  link: https://t.me/+2BvyMGz6q6k3ZjRk
+  kind: Meetup group
+  link: https://www.meetup.com/pl-PL/rust-warsaw/
 - name: Rust Wrocław
-  kind: Slack
-  link: https://join.slack.com/t/rust-wroclaw/shared_invite/enQtNTQ2NjEwOTA3OTIwLWViZDUwYmMyZjkyNWYyNDFkMWUzYTZiMjBjZmE5OTYyNzE2NzBhYzJhZGFjYjcwZTU2MTU3MzM1ODRiNDdhNWU
+  kind: Website
+  link: https://www.rust-wroclaw.pl/
