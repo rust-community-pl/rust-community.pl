@@ -11,6 +11,7 @@
   city: Warszawa
   kind: "Conference"
 - name: 'Past events:'
+  link:
 - name: "Rust Gdansk #7"
   link: https://www.meetup.com/pl-PL/rust-gdansk/events/305742562/
   date: "2025-02-06T18:00:00+01:00"
