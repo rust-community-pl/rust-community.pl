@@ -61,9 +61,7 @@
 {% set recordings = load_data(path="data/recordings.yaml") %}
 {% set education = load_data(path="data/education.yaml") %}
 {% set trainings = load_data(path="data/trainings.yaml") %}
-{#
 {% set companies = load_data(path="data/companies.yaml") %}
-#}
 
 <div class="container px-4">
   <div class="row g-4">
@@ -103,9 +101,6 @@
           {{ self::sectionheader(label="Companies/jobs", tooltip="Companies that use Rust in production and/or have Rust
           job openings.") }}
           <ul class="list-group list-group-flush">
-            {# placeholder #}
-            <li class="list-group-item">Here we will list Rust related jobs</li>
-            {#
             {% for company in companies %}
             <li class="list-group-item">
                 <div class="card-title">{{ company.name }}</div>
@@ -115,7 +110,6 @@
                 {% endfor %}
             </li>
             {% endfor %}
-            #}
           </ul>
         </div>
       </div>
