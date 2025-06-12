@@ -22,3 +22,6 @@ Note that all added content should be relevant to Rust usage in Poland, as this 
     ```
 3) Run `zola serve` or `zola build`
 
+## Acknowledgement
+Rust-community.pl was forked from [rustlang.cz](https://github.com/Kobzol/rustlang.cz) in December 2024 in order to create a Polish equivalent.
+This site wouldn't exist without the initial work by [Jakub Beránek](https://github.com/Kobzol) and rustlang.cz contributors.
