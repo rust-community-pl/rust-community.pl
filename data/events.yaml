@@ -4,6 +4,12 @@
   published: "2025-06-12T10:00:00+02:00"
   city: Gdańsk
   kind: "Meetup"
+- name: "Rust Poland Meetup x Poznan"
+  link: https://www.meetup.com/rust-poland-meetup/events/308480357/
+  date: "2025-07-02T18:00:00+02:00"
+  published: "2025-06-15T10:00:00+02:00"
+  city: Poznań
+  kind: "Meetup"
 - name: 'Past events:'
   link:
 - name: "Rust Gdansk #8"
