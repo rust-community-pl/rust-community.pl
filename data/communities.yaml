@@ -10,3 +10,6 @@
 - name: Rust Wrocław
   kind: Website
   link: https://www.rust-wroclaw.pl/
+- name: Rust Poland
+  kind: Meetup group
+  link: https://www.meetup.com/rust-poland-meetup/
