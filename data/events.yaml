@@ -1,3 +1,5 @@
+- name: 'Past events:'
+  link:
 - name: "Rust Gdansk #9"
   link: https://www.meetup.com/rust-gdansk/events/308349712/
   date: "2025-07-01T18:00:00+02:00"
@@ -10,8 +12,12 @@
   published: "2025-06-15T10:00:00+02:00"
   city: Poznań
   kind: "Meetup"
-- name: 'Past events:'
-  link:
+- name: "Rust Cracow #2"
+  link: https://www.meetup.com/pl-pl/krakow-rust-meetup-group/events/307354168/
+  date: "2025-05-20T17:00:00+02:00"
+  published: "2025-05-20T17:00:00+02:00"
+  city: Kraków
+  kind: "Meetup"
 - name: "Rust Gdansk #8"
   link: https://www.meetup.com/rust-gdansk/events/307281434/
   date: "2025-05-08T18:00:00+02:00"

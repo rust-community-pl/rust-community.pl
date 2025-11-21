@@ -1,3 +1,25 @@
+- name: "RustCracow #2 - Rust crypto trading bot project insights"
+  speakers:
+    - Mateusz Szczyrzyca
+  date: "2025-05-20"
+  published: "2025-07-18T12:00:00+02:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=8tT2L5l7aRY
+- name: "RustCracow #2 - How asciinema uses Rust"
+  speakers:
+    - Marcin Kulik
+  date: "2025-05-20"
+  published: "2025-07-18T12:00:00+02:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=Ak1v7S6IINA&t=1262s
+- name: "RustCracow #2 - Creating cot - a novel Rust web framework for lazy developers"
+  speakers:
+    - Mateusz Maćkowski
+    - Marek Grzelak
+  date: "2025-05-20"
+  published: "2025-07-18T12:00:00+02:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=TTg3t-Pw0ok
 - name: "Coolest algorithms and optimizations I've used at work | Rust Wrocław #37"
   speakers:
     - Patryk Wychowaniec
@@ -111,4 +133,3 @@
   published: "2025-02-06T12:00:00+01:00"
   kind: Stream recording
   link: https://www.youtube.com/watch?v=qBlEi7szSkU
-

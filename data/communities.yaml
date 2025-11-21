@@ -4,6 +4,9 @@
 - name: Rust Gdansk
   kind: Meetup group
   link: https://www.meetup.com/pl-PL/rust-gdansk/
+- name: Rust Cracow
+  kind: Meetup group
+  link: https://www.meetup.com/pl-pl/krakow-rust-meetup-group/
 - name: Rust Warsaw
   kind: Meetup group
   link: https://www.meetup.com/pl-PL/rust-warsaw/
