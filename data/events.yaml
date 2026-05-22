@@ -1,5 +1,41 @@
 - name: 'Past events:'
   link:
+- name: "RUSTMEET 2026"
+  link: https://rustmeet.eu
+  date: "2025-06-12T10:00:00+01:00"
+  published: "2026-05-20T17:00:00+01:00"
+  city: Gliwice
+  kind: "Conference"
+- name: "Rust Wrocław #38"
+  link: https://luma.com/j54qn83u
+  date: "2026-04-29T18:00:00+02:00"
+  published: "2026-05-20T17:00:00+01:00"
+  city: Wrocław
+  kind: "Meetup"
+- name: "Rust Warsaw Meetup: April 2026"
+  link: https://www.meetup.com/pl-pl/rust-warsaw/events/314182541/
+  date: "2026-04-21T18:00:00+02:00"
+  published: "2026-05-20T17:00:00+01:00"
+  city: Warszawa
+  kind: "Meetup"
+- name: "Rustikon 2026"
+  link: https://www.rustikon.dev
+  date: "2026-03-19T08:00:00+02:00"
+  published: "2026-05-20T17:00:00+01:00"
+  city: Warszawa
+  kind: "Conference"
+- name: "Rust Gdansk #11"
+  link: https://www.meetup.com/pl-pl/rust-gdansk/events/310924266/
+  date: "2025-11-06T18:00:00+02:00"
+  published: "2026-05-20T17:00:00+01:00"
+  city: Gdańsk
+  kind: "Meetup"
+- name: "Rust Gdansk #10"
+  link: https://www.meetup.com/pl-pl/rust-gdansk/events/310610993/
+  date: "2025-09-04T18:00:00+02:00"
+  published: "2026-05-20T17:00:00+01:00"
+  city: Gdańsk
+  kind: "Meetup"
 - name: "Rust Gdansk #9"
   link: https://www.meetup.com/rust-gdansk/events/308349712/
   date: "2025-07-01T18:00:00+02:00"
