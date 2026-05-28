@@ -20,6 +20,56 @@
   published: "2025-07-18T12:00:00+02:00"
   kind: Stream recording
   link: https://www.youtube.com/watch?v=TTg3t-Pw0ok
+
+- name: "Let's write open IoText protocol for time series data in Rust | Rustmeet 2025"
+  speakers:
+    - Marcin Bielak
+  date: "2025-03-15"
+  published: "2026-05-28T12:00:00+02:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=h3sMeHxUAaU
+- name: Building the Future of the Terminal with Rust | Rustmeet 2025"
+  speakers:
+    - Orhun Parmaksız
+  date: "2025-03-15"
+  published: "2026-05-28T12:00:00+02:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=38EWluqEIs8
+- name: "Bridging Theory and Practice: develop a custom application with ROS2 and Rust | Rustmeet 2025"
+  speakers:
+    - Júlia Marsal Perendreu
+  date: "2025-03-15"
+  published: "2026-05-28T12:00:00+02:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=mL2Rdvk-PuQ
+- name: "Running Rust on Android | Rustmeet 2025"
+  speakers:
+    - Artur Frenszek-Iwicki
+  date: "2025-03-15"
+  published: "2026-05-28T12:00:00+02:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=nGBuzG2NjN4
+- name: "From Side Projects to Sustainable Open Source | Rustmeet 2025"
+  speakers:
+    - Orhun Parmaksız
+  date: "2025-03-15"
+  published: "2026-05-28T12:00:00+02:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=HDU8dpt-tNE
+- name: "Let's build our own message streaming platform | Rustmeet 2025"
+  speakers:
+    - Piotr Gankiewicz
+  date: "2025-03-15"
+  published: "2026-05-28T12:00:00+02:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=v3bpw7fcjp0
+- name: "Eating rustc's lunch by optimizing your incremental build time | Rustmeet 2025"
+  speakers:
+    - Piotr Osiewicz
+  date: "2025-03-15"
+  published: "2026-05-28T12:00:00+02:00"
+  kind: Stream recording
+  link: https://www.youtube.com/watch?v=4ojsrVE60qM
 - name: "Coolest algorithms and optimizations I've used at work | Rust Wrocław #37"
   speakers:
     - Patryk Wychowaniec
