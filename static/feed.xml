@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Polish Rust language events</title>
+    <id>https://rust-community.pl</id>
+    <updated>2026-05-28T12:00:00+02:00</updated>
+    <author>
+        <name>Jakub Beránek</name>
+        <email>berykubik@gmail.com</email>
+        <uri>https://github.com/kobzol</uri>
+    </author>
+    <link href="https://rust-community.pl/feed.atom" rel="alternate" title="Atom feed"/>
+    <subtitle>Events and talk recordings related to the Rust language community in Poland</subtitle>
+    <entry>
+        <title>Let&apos;s write open IoText protocol for time series data in Rust | Rustmeet 2025</title>
+        <id>https://www.youtube.com/watch?v=h3sMeHxUAaU</id>
+        <updated>2026-05-28T12:00:00+02:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=h3sMeHxUAaU" rel="alternate"/>
+        <published>2026-05-28T12:00:00+02:00</published>
+    </entry>
+    <entry>
+        <title>Building the Future of the Terminal with Rust | Rustmeet 2025&quot;</title>
+        <id>https://www.youtube.com/watch?v=38EWluqEIs8</id>
+        <updated>2026-05-28T12:00:00+02:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=38EWluqEIs8" rel="alternate"/>
+        <published>2026-05-28T12:00:00+02:00</published>
+    </entry>
+    <entry>
+        <title>Bridging Theory and Practice: develop a custom application with ROS2 and Rust | Rustmeet 2025</title>
+        <id>https://www.youtube.com/watch?v=mL2Rdvk-PuQ</id>
+        <updated>2026-05-28T12:00:00+02:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=mL2Rdvk-PuQ" rel="alternate"/>
+        <published>2026-05-28T12:00:00+02:00</published>
+    </entry>
+    <entry>
+        <title>Running Rust on Android | Rustmeet 2025</title>
+        <id>https://www.youtube.com/watch?v=nGBuzG2NjN4</id>
+        <updated>2026-05-28T12:00:00+02:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=nGBuzG2NjN4" rel="alternate"/>
+        <published>2026-05-28T12:00:00+02:00</published>
+    </entry>
+    <entry>
+        <title>From Side Projects to Sustainable Open Source | Rustmeet 2025</title>
+        <id>https://www.youtube.com/watch?v=HDU8dpt-tNE</id>
+        <updated>2026-05-28T12:00:00+02:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=HDU8dpt-tNE" rel="alternate"/>
+        <published>2026-05-28T12:00:00+02:00</published>
+    </entry>
+    <entry>
+        <title>Let&apos;s build our own message streaming platform | Rustmeet 2025</title>
+        <id>https://www.youtube.com/watch?v=v3bpw7fcjp0</id>
+        <updated>2026-05-28T12:00:00+02:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=v3bpw7fcjp0" rel="alternate"/>
+        <published>2026-05-28T12:00:00+02:00</published>
+    </entry>
+    <entry>
+        <title>Eating rustc&apos;s lunch by optimizing your incremental build time | Rustmeet 2025</title>
+        <id>https://www.youtube.com/watch?v=4ojsrVE60qM</id>
+        <updated>2026-05-28T12:00:00+02:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=4ojsrVE60qM" rel="alternate"/>
+        <published>2026-05-28T12:00:00+02:00</published>
+    </entry>
+    <entry>
+        <title>RUSTMEET 2026</title>
+        <id>https://rustmeet.eu</id>
+        <updated>2026-05-20T17:00:00+01:00</updated>
+        <category term="event" label="event"/>
+        <link href="https://rustmeet.eu" rel="alternate"/>
+        <published>2026-05-20T17:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rust Wrocław #38</title>
+        <id>https://luma.com/j54qn83u</id>
+        <updated>2026-05-20T17:00:00+01:00</updated>
+        <category term="event" label="event"/>
+        <link href="https://luma.com/j54qn83u" rel="alternate"/>
+        <published>2026-05-20T17:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rust Warsaw Meetup: April 2026</title>
+        <id>https://www.meetup.com/pl-pl/rust-warsaw/events/314182541/</id>
+        <updated>2026-05-20T17:00:00+01:00</updated>
+        <category term="event" label="event"/>
+        <link href="https://www.meetup.com/pl-pl/rust-warsaw/events/314182541/" rel="alternate"/>
+        <published>2026-05-20T17:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rustikon 2026</title>
+        <id>https://www.rustikon.dev</id>
+        <updated>2026-05-20T17:00:00+01:00</updated>
+        <category term="event" label="event"/>
+        <link href="https://www.rustikon.dev" rel="alternate"/>
+        <published>2026-05-20T17:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rust Gdansk #11</title>
+        <id>https://www.meetup.com/pl-pl/rust-gdansk/events/310924266/</id>
+        <updated>2026-05-20T17:00:00+01:00</updated>
+        <category term="event" label="event"/>
+        <link href="https://www.meetup.com/pl-pl/rust-gdansk/events/310924266/" rel="alternate"/>
+        <published>2026-05-20T17:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rust Gdansk #10</title>
+        <id>https://www.meetup.com/pl-pl/rust-gdansk/events/310610993/</id>
+        <updated>2026-05-20T17:00:00+01:00</updated>
+        <category term="event" label="event"/>
+        <link href="https://www.meetup.com/pl-pl/rust-gdansk/events/310610993/" rel="alternate"/>
+        <published>2026-05-20T17:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>RustCracow #2 - Rust crypto trading bot project insights</title>
+        <id>https://www.youtube.com/watch?v=8tT2L5l7aRY</id>
+        <updated>2025-07-18T12:00:00+02:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=8tT2L5l7aRY" rel="alternate"/>
+        <published>2025-07-18T12:00:00+02:00</published>
+    </entry>
+    <entry>
+        <title>RustCracow #2 - How asciinema uses Rust</title>
+        <id>https://www.youtube.com/watch?v=Ak1v7S6IINA&amp;t=1262s</id>
+        <updated>2025-07-18T12:00:00+02:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=Ak1v7S6IINA&amp;t=1262s" rel="alternate"/>
+        <published>2025-07-18T12:00:00+02:00</published>
+    </entry>
+    <entry>
+        <title>RustCracow #2 - Creating cot - a novel Rust web framework for lazy developers</title>
+        <id>https://www.youtube.com/watch?v=TTg3t-Pw0ok</id>
+        <updated>2025-07-18T12:00:00+02:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=TTg3t-Pw0ok" rel="alternate"/>
+        <published>2025-07-18T12:00:00+02:00</published>
+    </entry>
+    <entry>
+        <title>Rust Poland Meetup x Poznan</title>
+        <id>https://www.meetup.com/rust-poland-meetup/events/308480357/</id>
+        <updated>2025-06-15T10:00:00+02:00</updated>
+        <category term="event" label="event"/>
+        <link href="https://www.meetup.com/rust-poland-meetup/events/308480357/" rel="alternate"/>
+        <published>2025-06-15T10:00:00+02:00</published>
+    </entry>
+    <entry>
+        <title>Rust Gdansk #9</title>
+        <id>https://www.meetup.com/rust-gdansk/events/308349712/</id>
+        <updated>2025-06-12T10:00:00+02:00</updated>
+        <category term="event" label="event"/>
+        <link href="https://www.meetup.com/rust-gdansk/events/308349712/" rel="alternate"/>
+        <published>2025-06-12T10:00:00+02:00</published>
+    </entry>
+    <entry>
+        <title>Rust Gdansk #8</title>
+        <id>https://www.meetup.com/rust-gdansk/events/307281434/</id>
+        <updated>2025-06-12T10:00:00+02:00</updated>
+        <category term="event" label="event"/>
+        <link href="https://www.meetup.com/rust-gdansk/events/307281434/" rel="alternate"/>
+        <published>2025-06-12T10:00:00+02:00</published>
+    </entry>
+    <entry>
+        <title>Rust Cracow #2</title>
+        <id>https://www.meetup.com/pl-pl/krakow-rust-meetup-group/events/307354168/</id>
+        <updated>2025-05-20T17:00:00+02:00</updated>
+        <category term="event" label="event"/>
+        <link href="https://www.meetup.com/pl-pl/krakow-rust-meetup-group/events/307354168/" rel="alternate"/>
+        <published>2025-05-20T17:00:00+02:00</published>
+    </entry>
+    <entry>
+        <title>Coolest algorithms and optimizations I&apos;ve used at work | Rust Wrocław #37</title>
+        <id>https://www.youtube.com/watch?v=TTg3t-Pw0ok</id>
+        <updated>2025-02-06T12:00:00+01:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=TTg3t-Pw0ok" rel="alternate"/>
+        <published>2025-02-06T12:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rust in Embedded: From Zero to Embassy | Rust Wrocław #37</title>
+        <id>https://www.youtube.com/watch?v=bzHC-DONsz0</id>
+        <updated>2025-02-06T12:00:00+01:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=bzHC-DONsz0" rel="alternate"/>
+        <published>2025-02-06T12:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Trace Me a River (v2.0!) | Rust Wrocław #36</title>
+        <id>https://www.youtube.com/watch?v=6_3_9PCNsIk</id>
+        <updated>2025-02-06T12:00:00+01:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=6_3_9PCNsIk" rel="alternate"/>
+        <published>2025-02-06T12:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>info!(&quot;I am on microcontroller and this is very {=str}!&quot;, &quot;cheap&quot;); | Rust Wrocław #36</title>
+        <id>https://www.youtube.com/watch?v=ugjOzlmAHNI</id>
+        <updated>2025-02-06T12:00:00+01:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=ugjOzlmAHNI" rel="alternate"/>
+        <published>2025-02-06T12:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>How are Merkle Trees? | Rust Wrocław #35</title>
+        <id>https://www.youtube.com/watch?v=wIax53BuJ_k</id>
+        <updated>2025-02-06T12:00:00+01:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=wIax53BuJ_k" rel="alternate"/>
+        <published>2025-02-06T12:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>wait, why (??) - part 2 | Rust Wrocław #35</title>
+        <id>https://www.youtube.com/watch?v=H-cKwm33HIc</id>
+        <updated>2025-02-06T12:00:00+01:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=H-cKwm33HIc" rel="alternate"/>
+        <published>2025-02-06T12:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Microdosing Rust: Why &amp; How to Get Started with AVR? | Rust Wrocław #26</title>
+        <id>https://www.youtube.com/watch?v=3o_lzQMLU5Q</id>
+        <updated>2025-02-06T12:00:00+01:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=3o_lzQMLU5Q" rel="alternate"/>
+        <published>2025-02-06T12:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>RTIC: Real time concurrency on ARM Cortex-M | Rust Wrocław #26</title>
+        <id>https://www.youtube.com/watch?v=mzFTjn9eftU</id>
+        <updated>2025-02-06T12:00:00+01:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=mzFTjn9eftU" rel="alternate"/>
+        <published>2025-02-06T12:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rusty Days 2020 - Are we observable yet?</title>
+        <id>https://www.youtube.com/watch?v=HtKnLiFwHJM</id>
+        <updated>2025-02-06T12:00:00+01:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=HtKnLiFwHJM" rel="alternate"/>
+        <published>2025-02-06T12:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rusty Days 2020 - How 10 open source projects manage unsafe code</title>
+        <id>https://www.youtube.com/watch?v=9M0NQI5Cp2c</id>
+        <updated>2025-02-06T12:00:00+01:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=9M0NQI5Cp2c" rel="alternate"/>
+        <published>2025-02-06T12:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rusty Days 2020 - Drone Control: Controlling a drone using Rust over WiFi</title>
+        <id>https://www.youtube.com/watch?v=e2mJq9qm_Io</id>
+        <updated>2025-02-06T12:00:00+01:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=e2mJq9qm_Io" rel="alternate"/>
+        <published>2025-02-06T12:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rusty Days 2020 - Harrington: The Rust Borrow Checker - A Deep Dive</title>
+        <id>https://www.youtube.com/watch?v=knhpe5IUnlE</id>
+        <updated>2025-02-06T12:00:00+01:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=knhpe5IUnlE" rel="alternate"/>
+        <published>2025-02-06T12:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rusty Days 2020 - Leveraging Rust to build cross-platform mobile libraries</title>
+        <id>https://www.youtube.com/watch?v=j5rczOF7pzg</id>
+        <updated>2025-02-06T12:00:00+01:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=j5rczOF7pzg" rel="alternate"/>
+        <published>2025-02-06T12:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rusty Days 2020 - Fast encrypted backups with Rust</title>
+        <id>https://www.youtube.com/watch?v=rspSTNDap5A</id>
+        <updated>2025-02-06T12:00:00+01:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=rspSTNDap5A" rel="alternate"/>
+        <published>2025-02-06T12:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rusty Days 2020 - Should we have a Rust 2021 edition?</title>
+        <id>https://www.youtube.com/watch?v=7LynNMrS8Z0</id>
+        <updated>2025-02-06T12:00:00+01:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=7LynNMrS8Z0" rel="alternate"/>
+        <published>2025-02-06T12:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rusty Days 2020 - Low-level optimization of algebraic and similar structures</title>
+        <id>https://www.youtube.com/watch?v=qBlEi7szSkU</id>
+        <updated>2025-02-06T12:00:00+01:00</updated>
+        <category term="recording" label="recording"/>
+        <link href="https://www.youtube.com/watch?v=qBlEi7szSkU" rel="alternate"/>
+        <published>2025-02-06T12:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rustikon 2025</title>
+        <id>https://www.rustikon.dev</id>
+        <updated>2025-02-05T17:00:00+01:00</updated>
+        <category term="event" label="event"/>
+        <link href="https://www.rustikon.dev" rel="alternate"/>
+        <published>2025-02-05T17:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>RUSTMEET 2025</title>
+        <id>https://rustmeet.eu</id>
+        <updated>2025-02-05T17:00:00+01:00</updated>
+        <category term="event" label="event"/>
+        <link href="https://rustmeet.eu" rel="alternate"/>
+        <published>2025-02-05T17:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rust Gdansk #7</title>
+        <id>https://www.meetup.com/pl-PL/rust-gdansk/events/305742562/</id>
+        <updated>2025-02-05T17:00:00+01:00</updated>
+        <category term="event" label="event"/>
+        <link href="https://www.meetup.com/pl-PL/rust-gdansk/events/305742562/" rel="alternate"/>
+        <published>2025-02-05T17:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Rust Wrocław #37</title>
+        <id>https://www.meetup.com/rust-wroclaw/events/301322042/</id>
+        <updated>2025-02-05T17:00:00+01:00</updated>
+        <category term="event" label="event"/>
+        <link href="https://www.meetup.com/rust-wroclaw/events/301322042/" rel="alternate"/>
+        <published>2025-02-05T17:00:00+01:00</published>
+    </entry>
+    <entry>
+        <title>Past events:</title>
+        <id></id>
+        <updated>2024-02-24T11:00:00+00:00</updated>
+        <category term="event" label="event"/>
+        <link href="" rel="alternate"/>
+        <published>2024-02-24T11:00:00+00:00</published>
+    </entry>
+</feed>
