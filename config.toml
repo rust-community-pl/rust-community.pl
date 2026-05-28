@@ -13,9 +13,5 @@ build_search_index = false
 generate_feeds = true
 feed_limit = 50
 
-[markdown] 
-# Theme can be customised by setting the highlight_theme variable to a theme supported by Zola 
-highlight_code = true
-
 [extra]
 github_url = "https://github.com/rust-community-pl/rust-community.pl"
